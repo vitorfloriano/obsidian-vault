@@ -1,0 +1,21 @@
+---
+tags: soc100, univesp
+---
+[[UNIVESP MOC]]
+
+[[SOC100 SEMANA 1]]
+
+[[SOC100 SEMANA 2]]
+
+[[SOC100 SEMANA 3]]
+
+[[SOC100 SEMANA 4]]
+
+[[SOC100 SEMANA 5]]
+
+[[SOC100 SEMANA 6]]
+
+[[SOC100 SEMANA 7]]
+
+[[SOC100 SEMANA 8]]
+
