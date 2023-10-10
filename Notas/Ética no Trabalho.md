@@ -32,7 +32,7 @@ Baseia-se em:
 
 # Profissões regulamentadas
 
-Segundo a CBO (2020), há 68 profissões regulamentadas, menos a profissão de professor.
+Segundo a CBO (2020), há 68 profissões regulamentadas, menos a profissão de professor. ^ae9a8e
 
 
 
