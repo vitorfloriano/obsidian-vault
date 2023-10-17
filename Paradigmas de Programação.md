@@ -1,0 +1,1 @@
+Formas de classificar as [[Linguagens de Programação|linguagens de programação]] com base em suas funcionalidades. O [[Paradigma|paradigma]] é a visão que o programador possui sobre a estruturação e execução do programa.

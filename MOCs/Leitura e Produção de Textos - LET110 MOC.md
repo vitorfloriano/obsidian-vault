@@ -1,5 +1,7 @@
 ---
-tags: univesp, let110
+tags:
+  - univesp
+  - let110
 ---
 [[UNIVESP MOC]]
 

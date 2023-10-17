@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "12614d772348b0e2",
+        "id": "6e4720d9f90b9c36",
         "type": "tabs",
         "children": [
           {
-            "id": "faec75aa9821a4dd",
+            "id": "5c65ddb29863dbd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65ed5280cbca6b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PES300.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PES300.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PES300.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,44 +137,48 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PES300.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "10f12494660a9215",
         "type": "tabs",
         "children": [
           {
-            "id": "337d511d069402ed",
+            "id": "c0ab5203d70c490c",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PES300.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.16909599224280278,
+                  "scale": 0.2419249128674749,
                   "close": true
                 }
               }
@@ -177,25 +200,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4911759d780d354c",
+  "active": "65ed5280cbca6b43",
   "lastOpenFiles": [
-    "MOCs/COM230 - Programação Orientada a Objetos.md",
-    "Notas/Programação Orientada a Objetos.md",
+    "Untitled.md",
+    "PES300.md",
     "README.md",
-    "2023-10-10.md",
+    "Programação Procedural.md",
+    "Programação Funcional.md",
+    "Programação Declarativa.md",
+    "Paradigmas de Programação.md",
+    "Linguagens de Programação.md",
     "Untitled.canvas",
-    "Notas/Sistemas Numéricos.md",
-    "Linguística da Enunciação.md",
-    "Notas/HTTP.md",
-    "2023-10-09.md",
-    "Notas/Website.md",
-    "Notas/Tim Berners-Lee.md",
-    "Notas/Web.md",
-    "MOCs/UNIVESP MOC.md",
-    "MOCs/COM100 Semana 2 MOC.md",
-    "MOCs/COM100 Semana 3 MOC.md",
     "Untitled 1.canvas",
-    "This is a test to see if something happens in here..md",
-    "new note just for the git of it.md"
+    "Notas/Programação Orientada a Objetos.md",
+    "2023-10-10.md",
+    "Notas/Adequação Linguística.md",
+    "MOCs/Leitura e Produção de Textos - LET110 MOC.md",
+    "MOCs/LET110 Semana 4 - Coesão _ Coerência MOC.md",
+    "MOCs/LET110 Semana 3  MOC.md",
+    "MOCs/LET110 Semana 2 - As concepções de linguagem.md",
+    "Untitled 2.md",
+    "MOCs/COM230 - Programação Orientada a Objetos.md",
+    "Notas/Programas.md",
+    "Notas/Serviços de Busca.md",
+    "Notas/Gap Semântico.md",
+    "Programação Orientada à Objetos.md",
+    "POO.canvas",
+    "paradigma.md",
+    "nota generica da semana 1 de poo.md",
+    "git init.md",
+    "git.md"
   ]
 }
